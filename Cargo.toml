@@ -1,0 +1,7 @@
+[package]
+name = "rust_control_flow"
+version = "0.1.0"
+authors = ["Mathieu Anderson <anderson@talon.one>"]
+edition = "2018"
+
+[dependencies]
